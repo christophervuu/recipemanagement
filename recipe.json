@@ -1,0 +1,226 @@
+[
+    {
+        "name": "Honey Glazed Ham",
+        "description": "This ham tastes very much like the famous honey baked ham but costs much less, and there's no need to fight the crowds at holiday time. You can even buy the ham presliced to make it easier and more like the original. It is very good. (I do this while preparing the rest of the meal in the kitchen so that I don't forget to baste!)",
+        "ingredients": [
+            {
+                "quantity": {
+                    "value": "5",
+                    "uom": "lbs"
+                },
+                "name": "Ham"
+            },
+            {
+                "quantity": {
+                    "value": "1/4",
+                    "uom": "cup"
+                },
+                "name": "Cloves"
+            },
+            {
+                "quantity": {
+                    "value": "1/4",
+                    "uom": "cup"
+                },
+                "name": "Dark Corn Syrup"
+            },
+            {
+                "quantity": {
+                    "value": "2",
+                    "uom": "cups"
+                },
+                "name": "Honey"
+            },
+            {
+                "quantity": {
+                    "value": "2/3",
+                    "uom": "cup"
+                },
+                "name": "Butter"
+            }
+        ], 
+        "directions": [
+            {
+                "step": 1,
+                "direction": "Preheat oven to 325 degrees F (165 degrees C)."
+            },
+            {
+                "step": 2,
+                "direction": "Score ham, and stud with the whole cloves. Place ham in foil lined pan."
+            },
+            {
+                "step": 3,
+                "direction": "In the top half of a double boiler, heat the corn syrup, honey and butter. Keep glaze warm while baking ham."
+            },
+            {
+                "step": 4,
+                "direction": "Brush glaze over ham, and bake for 1 hour and 15 minutes in the preheated oven. Baste ham every 10 to 15 minutes with the honey glaze. During the last 4 to 5 minutes of baking, turn on broiler to caramelize the glaze. Remove from oven, and let sit a few minutes before serving."
+            }
+        ],
+        "yield": 15,
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F630590.jpg"
+    },
+    {
+        "name": "World's Best Lasagna",
+        "description": "It takes a little work, but it is worth it.",
+        "ingredients": [
+            {
+                "quantity": {
+                    "value": "1",
+                    "uom": "lbs"
+                },
+                "name": "Sweet Italian Sausage"
+            },
+            {
+                "quantity": {
+                    "value": "3/4",
+                    "uom": "lbs"
+                },
+                "name": "Lean Ground Beef"
+            },
+            {
+                "quantity": {
+                    "value": "1/2",
+                    "uom": "cup"
+                },
+                "name": "Minced Onions"
+            },
+            {
+                "quantity": {
+                    "value": "2",
+                    "uom": "cloves"
+                },
+                "name": "Crushed Garlic"
+            },
+            {
+                "quantity": {
+                    "value": "2",
+                    "uom": "cans"
+                },
+                "name": "Tomato Paste"
+            },
+            {
+                "quantity": {
+                    "value": "2",
+                    "uom": "cans"
+                },
+                "name": "Tomato Sauce"
+            },
+            {
+                "quantity": {
+                    "value": "1/2",
+                    "uom": "cup"
+                },
+                "name": "Water"
+            },
+            {
+                "quantity": {
+                    "value": "2",
+                    "uom": "tbps"
+                },
+                "name": "Sugar"
+            },
+            {
+                "quantity": {
+                    "value": "1 1/2",
+                    "uom": "tsps"
+                },
+                "name": "Dried Basil"
+            },
+            {
+                "quantity": {
+                    "value": "1/2",
+                    "uom": "tsp"
+                },
+                "name": "Fennel Seeds"
+            },
+            {
+                "quantity": {
+                    "value": "1",
+                    "uom": "tsp"
+                },
+                "name": "Italian Seasoning"
+            },
+            {
+                "quantity": {
+                    "value": "1 1/2",
+                    "uom": "tsps"
+                },
+                "name": "Salt"
+            },
+            {
+                "quantity": {
+                    "value": "1/4",
+                    "uom": "tsp"
+                },
+                "name": "Black Pepper"
+            },
+            {
+                "quantity": {
+                    "value": "4",
+                    "uom": "tbps"
+                },
+                "name": "Parsley"
+            },
+            {
+                "quantity": {
+                    "value": "12",
+                    "uom": "Sheets"
+                },
+                "name": "Lasgana Noodles"
+            },
+            {
+                "quantity": {
+                    "value": "16",
+                    "uom": "ounces"
+                },
+                "name": "Ricotta Cheese"
+            },
+            {
+                "quantity": {
+                    "value": "1",
+                    "uom": ""
+                },
+                "name": "Egg"
+            },
+            {
+                "quantity": {
+                    "value": "3/4",
+                    "uom": "lbs"
+                },
+                "name": "Mozzarella Cheese"
+            },
+            {
+                "quantity": {
+                    "value": "3/4",
+                    "uom": "cup"
+                },
+                "name": "Parmesean Cheese"
+            }
+        ],
+        "directions": [
+            {
+                "step": 1,
+                "direction": "In a Dutch oven, cook sausage, ground beef, onion, and garlic over medium heat until well browned. Stir in crushed tomatoes, tomato paste, tomato sauce, and water. Season with sugar, basil, fennel seeds, Italian seasoning, 1 teaspoon salt, pepper, and 2 tablespoons parsley. Simmer, covered, for about 1 1/2 hours, stirring occasionally."
+            },
+            {
+                "step": 2,
+                "direction": "Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water. In a mixing bowl, combine ricotta cheese with egg, remaining parsley, and 1/2 teaspoon salt."
+            },
+            {
+                "step": 3,
+                "direction": "Preheat oven to 375 degrees F (190 degrees C)."
+            },
+            {
+                "step": 4,
+                "direction": "To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13-inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with one half of the ricotta cheese mixture. Top with a third of mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray, or make sure the foil does not touch the cheese."
+            },
+            {
+                "step": 5,
+                "direction": "Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 minutes. Cool for 15 minutes before serving."
+            }
+        ],
+        "yield": 12,
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2020%2F07%2F11%2Fworlds-best-lasagna.jpeg"
+    }
+]
